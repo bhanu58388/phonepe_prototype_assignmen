@@ -1,0 +1,8 @@
+{
+  "name": "PhonePe",
+  "description": "India's payments app for UPI transfers, bill payments, mobile recharges, 24K digital gold, insurance, and soundbox alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
